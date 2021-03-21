@@ -127,7 +127,7 @@ GET : http://localhost:8080/listbucket
 
 
 
-![](/home/xgueret/Developpement/MyWorkspace/SpringBoot/s3-web/img/exemple_listBucker.png)
+![](./img/exemple_listBucker.png)
 
 
 
