@@ -1,6 +1,6 @@
 
 
-#  ![](/home/xgueret/Developpement/MyWorkspace/SpringBoot/s3-web/img/springBoot.png)Spring Boot  ![](/home/xgueret/Developpement/MyWorkspace/SpringBoot/s3-web/img/bucket.png)AWS SDK (s3) ![](/home/xgueret/Developpement/MyWorkspace/SpringBoot/s3-web/img/ubuntu.png) linux
+#  ![](./img/springBoot.png)Spring Boot  ![](./img/bucket.png)AWS SDK (s3) ![](./img/ubuntu.png) linux
 
 
 
