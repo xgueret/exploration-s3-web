@@ -1,0 +1,6 @@
+s3:
+  url: http://172.17.0.1:4566
+  namespace: local
+  bucket: local-s3-bucket
+  user: local
+  key: local
