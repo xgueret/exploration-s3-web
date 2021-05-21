@@ -121,7 +121,7 @@ docker run --name my-s3-web -d -e "SPRING_PROFILES_ACTIVE=local" -p 8080:8080 s3
 
 
 
-Ensuite ouvrer votre client **REST** préféré,  pour ma part j'utilise [insomnia](https://insomnia.rest/) 
+Ouvrir votre client **REST** préféré,  pour ma part j'utilise [insomnia](https://insomnia.rest/) 
 
 GET : http://localhost:8080/listbucket
 
